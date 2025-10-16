@@ -4,11 +4,10 @@ A modern, modular implementation of the popular 2048 puzzle game built with Reac
 
 ![2048 Game](https://img.shields.io/badge/Game-2048-blue)
 ![React](https://img.shields.io/badge/React-18.2.0-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🎮 Live Demo
 
-[Play the game here](https://2048-20y0i9lyk-manojs-projects-f4db3f97.vercel.app/) 🎮
+[Play the game here](https://2048-beta-sepia.vercel.app/) 🎮
 
 ## 📋 Table of Contents
 
@@ -246,28 +245,6 @@ The modular architecture makes it easy to add new features:
 2. **New Hooks**: Add to `src/hooks/`
 3. **New Logic**: Add pure functions to `src/utils/`
 
-## 🚀 Deployment
-
-### Netlify
-1. Build the project: `npm run build`
-2. Deploy the `build` folder to Netlify
-
-### Vercel
-1. Connect your GitHub repository to Vercel
-2. Vercel will automatically deploy on push
-
-### GitHub Pages
-1. Install gh-pages: `npm install --save-dev gh-pages`
-2. Add to package.json:
-   ```json
-   "homepage": "https://yourusername.github.io/2048-react-game",
-   "scripts": {
-     "predeploy": "npm run build",
-     "deploy": "gh-pages -d build"
-   }
-   ```
-3. Deploy: `npm run deploy`
-
 ## 🧪 Testing
 
 The project is set up with Jest and React Testing Library. Add tests to verify:
@@ -285,23 +262,11 @@ The project is set up with Jest and React Testing Library. Add tests to verify:
 4. Push to branch: `git push origin feature-name`
 5. Submit a pull request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Original 2048 game by Gabriele Cirulli
 - React team for the amazing framework
 - Styled-components for CSS-in-JS solution
-
-## 📞 Support
-
-If you have any questions or issues, please:
-
-1. Check the [Issues](https://github.com/yourusername/2048-react-game/issues) page
-2. Create a new issue with detailed information
-3. Contact the maintainers
 
 ---
 
