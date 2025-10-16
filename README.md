@@ -271,3 +271,5 @@ The project is set up with Jest and React Testing Library. Add tests to verify:
 ---
 
 **Happy Gaming! 🎮**
+
+This is a dummy line for testing purposes.
