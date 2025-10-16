@@ -8,7 +8,7 @@ A modern, modular implementation of the popular 2048 puzzle game built with Reac
 
 ## 🎮 Live Demo
 
-[Play the game here](https://your-deployment-link.com) *(Update with your deployment link)*
+[Play the game here](https://2048-20y0i9lyk-manojs-projects-f4db3f97.vercel.app/) 🎮
 
 ## 📋 Table of Contents
 
